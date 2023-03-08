@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SolarSystemPlanetSelection.unity
+    guid: 2a02afc3b6f2ef7428ac60500895f663
   m_configObjects: {}
